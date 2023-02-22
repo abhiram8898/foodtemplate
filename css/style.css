@@ -1,0 +1,90 @@
+/* Author:abhiram 
+Date : 15-02-2023 */
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Open-Sans, Sans-serif;
+}
+
+.first {
+    min-height: 100vh;
+    background-image: url("../images/background/agency-slider-04.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btnbg {
+    background-color: #d1ae5d;
+}
+
+.bgfordiv {
+    background-color: #f2624a;
+}
+.i {
+    width: 100px !important;
+}
+
+.menu {
+    background-image: url("../images/background/restaurant-menu-bg1.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 0;
+    margin: 0;
+}
+
+.f1 {
+    background-image: url("../images/agency-work-13.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+.f2 {
+    background-image: url("../images/agency-work-08.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
+.f21 {
+    background-image: url("../images/agency-work-02.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
+
+.f3 {
+    background-image: url("../images/agency-work-14.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+.f41 {
+    background-image: url("../images/agency-content-img01.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
+.f4 {
+    background-image: url("../images/agency-content-img02.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
+
+.fg {
+    background-image: url("../images/background/hero-bg9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 80vh;
+}
+.fj {
+    background-image: url("../images/background/fitness-about-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 80vh;
+}
+.fl {
+    background-image: url("../images/background/hero-bg3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
