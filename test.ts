@@ -1,3 +1,0 @@
-
-//validate email with regex
-
