@@ -89,3 +89,8 @@ Date : 15-02-2023 */
     min-height: 100vh;
 }
 
+.carousel-indicators [data-bs-target] {
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+}
